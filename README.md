@@ -1,4 +1,5 @@
-I'm Dilan Bernal 🎸
+**I'm Dilan Bernal **🎸
+
 I'm Competitive programmer, soon-to-graduate Software Engineer student, Back-end and Front-end developerCoding
 
 🏢 I’m currently Studying at Uniempresarial
