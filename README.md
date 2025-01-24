@@ -1,6 +1,7 @@
 **I'm Dilan Bernal**🎸
 ![Banner](https://placehold.co/600x400)
-I'm Competitive programmer, soon-to-graduate Software Engineer student, Back-end and Front-end developerCoding
+
+>I'm Competitive programmer, soon-to-graduate Software Engineer student, Back-end and Front-end developerCoding
 
 🏢 I’m currently Studying at Uniempresarial
 
