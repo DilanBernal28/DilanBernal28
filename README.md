@@ -36,7 +36,6 @@
 - **Back-End Development**:
   
   >  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  >  ![Node.js](https://img.shields.io/badge/node.js-%3C873AA.svg?style=for-the-badge&logo=node.js&logoColor=white)
   
 - **Databases**:
 
