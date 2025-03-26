@@ -2,13 +2,17 @@
  <strong>I'm Dilan Felipe Bernal 🎸</strong>
 </h1>
 
-##  **From me**
+##  **About me**
 
 > I'm from Colombia 🇨🇴
 
-> I'm a competitive programmer, soon-to-graduate Software Engineer student, Back-end and Front-end developer coder
+> I’m a competitive programmer and a soon-to-graduate Software Engineering student, with experience in both Frontend and Backend development.
 
-> 🏢 I’m currently Studying at Uniempresarial
+> 🏫 I’m currently Studying at Uniempresarial
+
+> 🏢 I’m currently completing my internship at Pevaar, gaining experience in Frontend development with Angular and Backend development with .NET.
+
+> 🎵 Fun fact: I love playing the guitar in my free time!  
 
 > 🕛 I’m currently learning:
 >> ![Vue.js](https://img.shields.io/badge/Vue-%235A966C.svg?style=for-the-badge&logo=vue.js&logoColor=black)
@@ -53,7 +57,7 @@
 
 ## Github Stats
 
-<a display="flex" href="https://github.com/DilanBernal28/">
+<p display="flex" align="space-between">
    <img  height="180rem" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DilanBernal28&layout=compact&theme=react" />
    <img  height="180rem" src="https://streak-stats.demolab.com?user=DilanBernal28&theme=react" alt="GitHub Streak" /></a>
-</a>
+</p>
